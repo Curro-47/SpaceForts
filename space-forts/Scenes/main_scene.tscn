@@ -2,5 +2,5 @@
 
 [node name="Main Scene" type="Node2D"]
 
-[node name="Grid" type="Node2D" parent="."]
+[node name="Griddy" type="Node2D" parent="."]
 position = Vector2(580, 320)
