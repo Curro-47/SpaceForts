@@ -13,7 +13,7 @@ config_version=5
 config/name="Space Forts"
 run/main_scene="uid://bdttlbhvrky7u"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://Sprites/icon.svg"
+config/icon="res://Sprites/ConstructionMenu/icon.svg"
 
 [dotnet]
 

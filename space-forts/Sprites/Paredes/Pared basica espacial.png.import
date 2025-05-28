@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ccf67uv8vhxju"
-path="res://.godot/imported/Caja de botones.png-eec1e44e845695c64a6bc1c6f11309e7.ctex"
+uid="uid://bqegev7nibyii"
+path="res://.godot/imported/Pared basica espacial.png-5efaadb14e1058acd9abfec014f3d2e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Caja de botones.png"
-dest_files=["res://.godot/imported/Caja de botones.png-eec1e44e845695c64a6bc1c6f11309e7.ctex"]
+source_file="res://Sprites/Paredes/Pared basica espacial.png"
+dest_files=["res://.godot/imported/Pared basica espacial.png-5efaadb14e1058acd9abfec014f3d2e6.ctex"]
 
 [params]
 

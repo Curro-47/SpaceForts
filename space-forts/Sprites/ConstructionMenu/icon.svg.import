@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bedelrayeo6aw"
-path="res://.godot/imported/Materiales Menu.png-a18f1294e49789f360f3ccb32f4e30f7.ctex"
+uid="uid://4iloftthkneu"
+path="res://.godot/imported/icon.svg-209d8ae0416f4b7da97a25338a1d9137.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Materiales Menu.png"
-dest_files=["res://.godot/imported/Materiales Menu.png-a18f1294e49789f360f3ccb32f4e30f7.ctex"]
+source_file="res://Sprites/ConstructionMenu/icon.svg"
+dest_files=["res://.godot/imported/icon.svg-209d8ae0416f4b7da97a25338a1d9137.ctex"]
 
 [params]
 
@@ -32,3 +32,6 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
+svg/scale=1.0
+editor/scale_with_editor_scale=false
+editor/convert_colors_with_editor_theme=false
